@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="bacteria_icon" size="1.000000 1.000000" />
+    <ImageTarget name="Vegetal_cell_icon" size="1.000000 1.000000" />
     <ImageTarget name="CelulaAnimal_scaled" size="1.000000 1.584416" />
   </Tracking>
 </QCARConfig>
