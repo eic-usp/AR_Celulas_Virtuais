@@ -62,4 +62,8 @@ crashlytics-build.properties
 # Ignore packages of vuforia
 ./Packages
 
+# Ignore large files of vuforia 
+*.tgz
 
+AR_Celulas_Virtuais\Packages\com.ptc.vuforia.engine-10.14.4.tgz
+*tgz
