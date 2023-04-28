@@ -14,4 +14,9 @@ public class SampleMenuController : MonoBehaviour
     {
         SceneManager.LoadScene("Credits");
     }
+
+    public void BtnQuiz()
+    {
+        SceneManager.LoadScene("QuizDemo");
+    }
 }
