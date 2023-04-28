@@ -4,11 +4,13 @@
 A ideia é criar uma versão em realidade aumentada do projeto células virtuais 
 
 
-## Bugs
+## Bugs atuais
 
-### Problemas do Vuforia
+No momento, a importação das células (utilizando o formato de packages) trouxe alguns arquivos que estão dando erros do tipo:
 
-No momento existem dois problemas com o vuforia, um é o a existencia de um arquivo muito grande demis dele
-para dar comit, o arquivo "om.ptc.vuforia.engine-10.14.4.tgz" muito provavelmente 
+    "Assets\Scripts\MouseOrbitSample.cs(45,17): error CS0111: Type 'MouseOrbitSample' already defines a member called 
+    'RefreshCamera' with the same parameter types"
 
-Outro é a faltade um script quando importamos os prefabs das células do antigo projeto
+18 erros com uma descrição parecido com essa foram reportados.
+Provavelmente, foram importados arquivos desnecessários, acredito que agora seja apenas uma questão de rastrea-los e apaga-los  
+
