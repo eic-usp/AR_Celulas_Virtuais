@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.2257134, b: 0.30692226, a: 1}
+  m_IndirectSpecularColor: {r: 0.17484932, g: 0.21872118, b: 0.30100068, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -413,8 +413,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 383210198}
   - {fileID: 1622180575}
+  - {fileID: 383210198}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -510,7 +510,7 @@ GameObject:
   - component: {fileID: 544030107}
   - component: {fileID: 544030106}
   - component: {fileID: 544030105}
-  - component: {fileID: 544030104}
+  - component: {fileID: 544030108}
   m_Layer: 0
   m_Name: TargetVegetalCell
   m_TagString: Untagged
@@ -518,25 +518,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &544030104
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 544030103}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 544030106}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: Vegetal_cell_icon
-  mDatasetName: Vuforia/AR_Celulas_Virtuais.xml
-  mCastedBehaviour: {fileID: 544030106}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &544030105
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -607,7 +588,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 544030104}
+  mPreview: {fileID: 544030108}
 --- !u!4 &544030107
 Transform:
   m_ObjectHideFlags: 0
@@ -625,6 +606,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &544030108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544030103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 544030106}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Vegetal_cell_icon
+  mDatasetName: Vuforia/AR_Celulas_Virtuais.xml
+  mCastedBehaviour: {fileID: 544030106}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -711,14 +711,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalRotation: {x: 0.65293884, y: -0.25662225, z: 0.03364981, w: 0.7118172}
   m_LocalPosition: {x: 0.69, y: 2.52, z: -1.42}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 71.23, y: -87.215, z: -63.201}
 --- !u!1 &1128625923
 GameObject:
   m_ObjectHideFlags: 0
@@ -985,7 +985,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 291307216}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!108 &1622180576
 Light:
@@ -1060,7 +1060,7 @@ GameObject:
   - component: {fileID: 1902552285}
   - component: {fileID: 1902552284}
   - component: {fileID: 1902552283}
-  - component: {fileID: 1902552282}
+  - component: {fileID: 1902552286}
   m_Layer: 0
   m_Name: TargetBacteriaCell
   m_TagString: Untagged
@@ -1068,25 +1068,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1902552282
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1902552281}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 1902552284}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: bacteria_icon
-  mDatasetName: Vuforia/AR_Celulas_Virtuais.xml
-  mCastedBehaviour: {fileID: 1902552284}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &1902552283
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1157,7 +1138,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1902552282}
+  mPreview: {fileID: 1902552286}
 --- !u!4 &1902552285
 Transform:
   m_ObjectHideFlags: 0
@@ -1175,3 +1156,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1902552286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1902552281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1902552284}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: bacteria_icon
+  mDatasetName: Vuforia/AR_Celulas_Virtuais.xml
+  mCastedBehaviour: {fileID: 1902552284}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
