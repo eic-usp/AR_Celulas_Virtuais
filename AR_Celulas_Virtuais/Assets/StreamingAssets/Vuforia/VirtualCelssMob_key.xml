@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="NucleoAnimalCell" size="1.000000 0.865306" />
     <ImageTarget name="TargetBacteria_recort" size="1.000000 1.025735" />
     <ImageTarget name="TargetVegetal_recort" size="1.000000 0.875648" />
     <ImageTarget name="TargetBacteria_02" size="1.000000 0.748125" />
@@ -8,7 +9,6 @@
     <ImageTarget name="TargetAnimal_02_eidit01" size="1.000000 0.802120" />
     <ImageTarget name="TargetAnimal_02" size="1.000000 1.336675" />
     <ImageTarget name="bacteria_icon_2" size="1.000000 1.000000" />
-    <ImageTarget name="bacteria_icon" size="1.000000 1.000000" />
     <ImageTarget name="Vegetal_cell_icon" size="1.000000 1.000000" />
     <ImageTarget name="CelulaAnimal_scaled" size="1.000000 1.584416" />
   </Tracking>
