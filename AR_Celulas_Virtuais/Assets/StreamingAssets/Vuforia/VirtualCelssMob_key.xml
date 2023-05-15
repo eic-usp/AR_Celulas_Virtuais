@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Mitocondria" size="1.000000 0.848649" />
     <ImageTarget name="NucleoAnimalCell" size="1.000000 0.865306" />
     <ImageTarget name="TargetBacteria_recort" size="1.000000 1.025735" />
     <ImageTarget name="TargetVegetal_recort" size="1.000000 0.875648" />
