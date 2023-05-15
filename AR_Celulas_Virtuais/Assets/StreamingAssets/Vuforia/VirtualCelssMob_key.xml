@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Mitocondria" size="1.000000 0.848649" />
-    <ImageTarget name="NucleoAnimalCell" size="1.000000 0.865306" />
-    <ImageTarget name="TargetBacteria_recort" size="1.000000 1.025735" />
-    <ImageTarget name="TargetVegetal_recort" size="1.000000 0.875648" />
-    <ImageTarget name="TargetBacteria_02" size="1.000000 0.748125" />
-    <ImageTarget name="TargetVegetal_02" size="1.000000 0.748125" />
-    <ImageTarget name="TargetAnimal_02_eidit01" size="1.000000 0.802120" />
-    <ImageTarget name="TargetAnimal_02" size="1.000000 1.336675" />
-    <ImageTarget name="bacteria_icon_2" size="1.000000 1.000000" />
-    <ImageTarget name="Vegetal_cell_icon" size="1.000000 1.000000" />
-    <ImageTarget name="CelulaAnimal_scaled" size="1.000000 1.584416" />
+    <ImageTarget name="Target_Ribossomos" size="1.000000 0.762781" />
+    <ImageTarget name="Target_Lisossomo" size="1.000000 0.667235" />
+    <ImageTarget name="Target_VesiculasSecretoras" size="1.000000 0.671159" />
+    <ImageTarget name="Target_ReticuloEndoPLiso" size="1.000000 0.895652" />
+    <ImageTarget name="Target_ComplexoGolgi" size="1.000000 0.643902" />
+    <ImageTarget name="Target_Citoesqueleto" size="1.000000 0.737805" />
+    <ImageTarget name="Target_Peroxissomo" size="1.000000 0.694683" />
+    <ImageTarget name="Target_Centriulo" size="1.000000 0.758197" />
+    <ImageTarget name="Target_Bacteria_icon" size="1.000000 1.000000" />
+    <ImageTarget name="Target_Vegetal_cell_icon" size="1.000000 1.000000" />
+    <ImageTarget name="Target_VegetalCell" size="1.000000 0.748125" />
+    <ImageTarget name="Target_Bacteria" size="1.000000 0.748125" />
+    <ImageTarget name="Target_AnimalCell" size="1.000000 1.336675" />
+    <ImageTarget name="Target_NucleoAnimalCell" size="1.000000 0.865306" />
+    <ImageTarget name="Target_Mitocondria" size="1.000000 0.848649" />
+    <ImageTarget name="Target_AnimalCell_icon" size="1.000000 1.584416" />
   </Tracking>
 </QCARConfig>
