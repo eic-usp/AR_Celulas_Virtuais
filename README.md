@@ -11,7 +11,7 @@ O objetivo principal do projeto é permitir que os usuários, por meio de seus d
 <details>
 <summary>Detalhes das ferramentas </summary>
 
-    - Unity 2021.3..16f1
+    - Unity 2021.3.16f1
     - Vuforia
 
 </details>
