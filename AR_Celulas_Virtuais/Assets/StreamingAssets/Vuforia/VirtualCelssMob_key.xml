@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Target_Ribossomos" size="1.000000 0.762781" />
-    <ImageTarget name="Target_Lisossomo" size="1.000000 0.667235" />
-    <ImageTarget name="Target_VesiculasSecretoras" size="1.000000 0.671159" />
-    <ImageTarget name="Target_ReticuloEndoPLiso" size="1.000000 0.895652" />
-    <ImageTarget name="Target_ComplexoGolgi" size="1.000000 0.643902" />
-    <ImageTarget name="Target_Citoesqueleto" size="1.000000 0.737805" />
-    <ImageTarget name="Target_Peroxissomo" size="1.000000 0.694683" />
-    <ImageTarget name="Target_Centriulo" size="1.000000 0.758197" />
+    <ImageTarget name="Target_Peroxissomo" size="1.000000 0.648810" />
+    <ImageTarget name="Target_ComplexoGolgi" size="1.000000 1.215909" />
+    <ImageTarget name="Target_Mitocondria" size="1.000000 0.746575" />
+    <ImageTarget name="Target_ReticuloEndoPLiso" size="1.000000 0.632124" />
+    <ImageTarget name="Target_Lisossomo" size="1.000000 0.797203" />
+    <ImageTarget name="Target_Citoesqueleto" size="1.000000 0.578035" />
+    <ImageTarget name="Target_Centriulo" size="1.000000 0.871287" />
+    <ImageTarget name="Target_Ribossomos" size="1.000000 0.732394" />
+    <ImageTarget name="Target_VesiculasSecretoras" size="1.000000 0.790850" />
     <ImageTarget name="Target_Bacteria_icon" size="1.000000 1.000000" />
     <ImageTarget name="Target_Vegetal_cell_icon" size="1.000000 1.000000" />
     <ImageTarget name="Target_VegetalCell" size="1.000000 0.748125" />
     <ImageTarget name="Target_Bacteria" size="1.000000 0.748125" />
     <ImageTarget name="Target_AnimalCell" size="1.000000 1.336675" />
     <ImageTarget name="Target_NucleoAnimalCell" size="1.000000 0.865306" />
-    <ImageTarget name="Target_Mitocondria" size="1.000000 0.848649" />
     <ImageTarget name="Target_AnimalCell_icon" size="1.000000 1.584416" />
   </Tracking>
 </QCARConfig>
