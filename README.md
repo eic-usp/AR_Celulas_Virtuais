@@ -26,10 +26,10 @@ O objetivo principal do projeto é permitir que os usuários, por meio de seus d
 ### Programação 
 - Eric Rodrigues das Chagas
 - Thiago 1 
-- Julia
+- Juliana 
 
 ### Arte (modelagem das células)
-- Thiago 2 
+- Thiago Lopes Banderia
 
 
 ### Feramentas utilizadas
