@@ -8,6 +8,20 @@ O projeto "Células AR" é uma iniciativa desenvolvida pela organização EIC (E
 O objetivo principal do projeto é permitir que os usuários, por meio de seus dispositivos móveis, possam visualizar e interagir com uma representação tridimensional das células, juntamente com seus respectivos componentes, através da combinação da câmera do celular e uma mesa especialmente preparada que contém uma versão em duas dimensões da célula em questão.
 
 ## Desenvolvolvimento 
+<details>
+<summary>Componentes funcionando atualmente</summary>
+
+    - Célula animal
+    - Célula Vegetal
+    - Bactéria 
+    - Complexo de Golgi
+    - Nucleulo
+    - Reticulo Endoplasmatico liso
+    - Nucleoide
+
+</details>
+
+
 
 ### Programação 
 - Eric Rodrigues das Chagas

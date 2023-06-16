@@ -15,6 +15,7 @@
 - [X] Complexo de Golgi
 - [X] Nucleulo
 - [X] Reticulo Endoplasmatico liso
+- [X] Nucleoide
 - [ ] Citoesqueleto
 - [ ] Ribossomos
 - [ ] Vesicula Secretora
