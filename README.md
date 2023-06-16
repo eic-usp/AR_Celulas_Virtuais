@@ -26,7 +26,7 @@ O objetivo principal do projeto é permitir que os usuários, por meio de seus d
 ### Programação 
 - Eric Rodrigues das Chagas
 - Thiago 1 
-- Juliana 
+- Juliana Santos
 
 ### Arte (modelagem das células)
 - Thiago Lopes Banderia
