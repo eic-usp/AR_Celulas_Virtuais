@@ -10,12 +10,20 @@
 - [X] Célula Vegetal
 - [X] Bactéria 
 
+- [] icons_Célula animal
+- [] icons_Célula Vegetal
+- [] icons_Bactéria 
+
+
 ### Componentes das células  
 
 - [X] Complexo de Golgi
 - [X] Nucleulo
 - [X] Reticulo Endoplasmatico liso
 - [X] Nucleoide
+
+
+
 - [ ] Citoesqueleto
 - [ ] Ribossomos
 - [ ] Vesicula Secretora
