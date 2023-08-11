@@ -25,7 +25,7 @@ O objetivo principal do projeto é permitir que os usuários, por meio de seus d
 
 ### Programação 
 - Eric Rodrigues das Chagas
-- Thiago 1
+- Thiago Garcia 
 - Lucas
 - Juliana Santos
 
