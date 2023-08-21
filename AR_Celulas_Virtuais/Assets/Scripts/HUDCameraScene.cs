@@ -9,7 +9,5 @@ public class CameraScene : MonoBehaviour
    
     public void BackMenu() => SceneManager.LoadScene(0); 
 
-
-
-
+    
 }
