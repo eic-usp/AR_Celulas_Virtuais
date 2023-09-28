@@ -10,8 +10,8 @@
 #### UI
 
 - [X] Menu inicial
-- [ ] Melhorar menu inicial
-- [ ] Melhorar da tela HUD
+- [X] Melhorar menu inicial
+- [X] Melhorar da tela HUD
 
 #### Células Principais
 
