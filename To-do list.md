@@ -1,14 +1,42 @@
-# To-Do list: Eric
+# To-Do list
 
+--------------------------
+## MVP
 
+### Demais tarefas 
 
-## Test de targets dos objetos 
+- [] Subir na playstore 
 
-### Células Principais
+#### UI
+
+- [X] Menu inicial
+- [ ] Melhorar menu inicial
+- [ ] Melhorar da tela HUD
+
+#### Células Principais
 
 - [X] Célula animal
 - [X] Célula Vegetal
 - [X] Bactéria 
+
+- [X] icons_Célula animal
+- [X] icons_Célula Vegetal
+- [X] icons_Bactéria 
+
+
+## Colocar objetos em cena 
+
+- [X] Célula animal
+- [X] Célula Vegetal
+- [X] Bactéria 
+
+
+## Pós-MVP
+
+### Organização
+
+- [ ] Apagar arquivos desnecessarios (tem muitos)
+
 
 ### Componentes das células  
 
@@ -26,13 +54,8 @@
 - [ ] Plasmideo 
 - [ ] Nucleoide
 
---------------------------
 
 ## Colocar objetos em cena 
-
-- [X] Célula animal
-- [X] Célula Vegetal
-- [X] Bactéria 
 - [X] Complexo de Golgi
 - [X] Nucleulo
 - [X] Reticulo Endoplasmatico liso
@@ -42,8 +65,5 @@
 - [X] Peroxissomo
 - [ ] Vesicula Secretora
 
------------------------------
 
-## Pós-MVP
-
-- [ ] Apagar arquivos desnecessarios (tem muitos)
+2A7D51
