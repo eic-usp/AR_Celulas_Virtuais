@@ -13,6 +13,7 @@ public class MenuScript : MonoBehaviour
 
     public GameObject CanvaMenu;
     public GameObject CanvaCredits;
+    public GameObject CanvaTutorial;
 
 
     // Start is called before the first frame update
@@ -20,6 +21,7 @@ public class MenuScript : MonoBehaviour
     {
         CanvaMenu.SetActive(true);
         CanvaCredits.SetActive(false);
+        CanvaTutorial.SetActive(false);
     
     }
 
@@ -33,6 +35,22 @@ public class MenuScript : MonoBehaviour
         CanvaMenu.SetActive(true);
         CanvaCredits.SetActive(false);
         
+    }
+
+    public void GoTutorial()
+    {
+
+        CanvaMenu.SetActive(false);
+        CanvaTutorial.SetActive(true);
+
+    }
+
+    public void BackTutorial()
+    {
+
+        CanvaMenu.SetActive(true);
+        CanvaTutorial.SetActive(false);
+
     }
 
 

@@ -9,7 +9,7 @@ public class MenuManager : MonoBehaviour
 
     public GameObject CanvaMenu;
     public GameObject CanvaCredits;
-
+    public GameObject CanvaTutorial;
 
 
 
@@ -20,27 +20,42 @@ public class MenuManager : MonoBehaviour
     {
         CanvaMenu.SetActive(true);
         CanvaCredits.SetActive(false);
-        
+
     }
 
     //Carregar cena principal
-    public void LoadScene() =>  SceneManager.LoadScene(1);
+    public void LoadScene() => SceneManager.LoadScene(1);
 
-    public void GoCredits(){
-        
+    public void GoCredits()
+    {
+
         CanvaMenu.SetActive(false);
         CanvaCredits.SetActive(true);
-        
+
     }
 
 
-    public void BackCredits(){
-        
+    public void BackCredits()
+    {
+
         CanvaMenu.SetActive(true);
         CanvaCredits.SetActive(false);
-        
+
     }
 
+    public void GoTutorial()
+    {
 
+        CanvaMenu.SetActive(false);
+        CanvaTutorial.SetActive(true);
 
+    }
+
+    public void BackTutorial()
+    {
+
+        CanvaMenu.SetActive(true);
+        CanvaTutorial.SetActive(false);
+
+    }
 }
