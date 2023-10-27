@@ -32,7 +32,7 @@ public class RotateCell : MonoBehaviour
 
             if (primaryTouch.phase == TouchPhase.Moved)
             {
-                Vector2 directionRotation = new Vector2(primaryTouch.deltaPosition.y*-1, primaryTouch.deltaPosition.x*-1);
+                Vector2 directionRotation = new Vector2(primaryTouch.deltaPosition.y*1, primaryTouch.deltaPosition.x*-1);
                 transform.Rotate(directionRotation * speedRotation * Time.deltaTime, Space.World);
             }
         }       
