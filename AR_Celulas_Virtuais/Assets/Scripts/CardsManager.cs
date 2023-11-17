@@ -59,7 +59,7 @@ public class CardsManager : MonoBehaviour
 
     public void Nucleo()
     {
-        CanvaNucleo.SetActive(true);
+                CanvaNucleo.SetActive(true);
     }
     public void ReticuloRugoso()
     {
