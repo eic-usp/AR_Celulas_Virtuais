@@ -1,18 +1,31 @@
+using System.Net.Mime;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Unity.VisualScripting;
+using JetBrains.Annotations;
 
-public class InfoTexts : MonoBehaviour
+public class MenuScript : MonoBehaviour
 {
+
+
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
+
+    public void Texts()
+    {
+
+    }
+
+    public void Audio()
     {
         
     }
+
+
 }

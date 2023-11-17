@@ -3638,13 +3638,71 @@ PrefabInstance:
     - {fileID: 8125915179333993271, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5383263288657136815, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 383210202}
+    - targetCorrespondingSourceObject: {fileID: 3939206539150284155, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 383210201}
   m_SourcePrefab: {fileID: 100100000, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
 --- !u!4 &383210198 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4160036950370334, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
   m_PrefabInstance: {fileID: 383210197}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &383210199 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3939206539150284155, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
+  m_PrefabInstance: {fileID: 383210197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &383210200 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5383263288657136815, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
+  m_PrefabInstance: {fileID: 383210197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &383210201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383210199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Delegates:
+  - eventID: 0
+    callback:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1528181881}
+          m_TargetAssemblyTypeName: CardsManager, Assembly-CSharp
+          m_MethodName: Nucleo
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!114 &383210202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383210200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Delegates: []
 --- !u!1 &383808092
 GameObject:
   m_ObjectHideFlags: 0
@@ -4620,7 +4678,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180.957}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -310.953, y: -96.78491}
+  m_AnchoredPosition: {x: -312.5, y: -89.3}
   m_SizeDelta: {x: -679.677, y: 117.921}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &455462992
@@ -5321,7 +5379,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180.957}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -310.64502, y: -96.61011}
+  m_AnchoredPosition: {x: -312, y: -89.30005}
   m_SizeDelta: {x: -664.747, y: 130.468}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &582469499
@@ -10522,7 +10580,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180.858}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5.5999756, y: -2.2999992}
+  m_AnchoredPosition: {x: 5.5, y: -2.2999992}
   m_SizeDelta: {x: 29.645, y: 33.989}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1203712685
@@ -13543,6 +13601,73 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526006714}
   m_CullTransparentMesh: 1
+--- !u!1 &1528181879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1528181880}
+  - component: {fileID: 1528181881}
+  m_Layer: 0
+  m_Name: CardsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1528181880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528181879}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.6006318, y: 0.44111174, z: -1.0907818}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1528181881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528181879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea5f38934f8ae94daafaa9ebcf2ca33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanvaNucleo: {fileID: 440647824}
+  CanvaReticuloRugoso: {fileID: 447563065}
+  CanvaReticuloLiso: {fileID: 633026100}
+  CanvaMitocondrias: {fileID: 1188561943}
+  CanvaPeroxissomos: {fileID: 1706496133}
+  CanvaLisossomos: {fileID: 689235387}
+  CanvaCitoesqueleto: {fileID: 1812443776}
+  CanvaRibossomos: {fileID: 942263655}
+  CanvaComplexoGolgiense: {fileID: 507867741}
+  CanvaCentriolo: {fileID: 1292652369}
+  CanvaMembranaPlasmatica: {fileID: 8199278}
+  CanvaParedeCelularVegetal: {fileID: 319695037}
+  CanvaGlioxissomo: {fileID: 1885864064}
+  CanvaCloroplasto: {fileID: 1228835791}
+  CanvaPlasmodesmo: {fileID: 332398859}
+  CanvaVacuolo: {fileID: 1663353508}
+  CanvaNucleoide: {fileID: 1025049873}
+  CanvaMesossomo: {fileID: 853649956}
+  CanvaPlasmideo: {fileID: 399437424}
+  CanvaCapsulas: {fileID: 22279696}
+  CanvaFimbrias: {fileID: 939433013}
+  CanvaParedeCelularProcarionte: {fileID: 980374857}
+  CanvaFlagelo: {fileID: 1849818149}
 --- !u!1 &1535760893
 GameObject:
   m_ObjectHideFlags: 0
