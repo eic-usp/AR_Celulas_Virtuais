@@ -3884,8 +3884,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -164.64996, y: -591}
-  m_SizeDelta: {x: -395.537, y: 287.88}
+  m_AnchoredPosition: {x: -178, y: -671}
+  m_SizeDelta: {x: -381.463, y: 264.033}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112988925
 MonoBehaviour:
@@ -3942,7 +3942,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -3971,7 +3971,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0.13491824, y: 0, z: 0.91096497, w: -0.02167518}
+  m_margin: {x: 18.237732, y: -11.352768, z: -95.59277, w: -0.02167518}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4619,7 +4619,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 279.99533, y: -608.9997}
+  m_AnchoredPosition: {x: 304, y: -684}
   m_SizeDelta: {x: -348.56796, y: 243.46301}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1293045058
@@ -4812,8 +4812,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -48, y: -312}
-  m_SizeDelta: {x: -156.409, y: 212.05103}
+  m_AnchoredPosition: {x: 12, y: -331}
+  m_SizeDelta: {x: -70.84, y: 179.13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1310155265
 MonoBehaviour:
@@ -4835,11 +4835,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Voc\xEA pode obter as imagens das c\xE9lulas atrav\xE9s do bot\xE3o abaixo
-    ou visitando o Espa\xE7o Interativo de Ci\xEAncias pessoalmente!"
+  m_text: "Obtenha as imagens das c\xE9lulas atrav\xE9s do bot\xE3o abaixo ou visitando
+    o Espa\xE7o Interativo de Ci\xEAncias pessoalmente!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4899,7 +4899,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 6.8489532, y: 0, z: -90.34979, w: 37.940113}
+  m_margin: {x: 0.18916322, y: 0, z: 26.073975, w: 39.9735}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -5294,7 +5294,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -229.99612, y: -327.00446}
+  m_AnchoredPosition: {x: -229.99612, y: -368}
   m_SizeDelta: {x: -489.494, y: 163.81396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341833845
@@ -5698,8 +5698,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1026377330}
-  - {fileID: 1309155515}
   - {fileID: 2123018479}
+  - {fileID: 1309155515}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6371,8 +6371,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 109, y: -354}
-  m_SizeDelta: {x: -299.27, y: 129.61206}
+  m_AnchoredPosition: {x: 105.972, y: -367}
+  m_SizeDelta: {x: -293.215, y: 273.61}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1670541362
 MonoBehaviour:
@@ -6394,7 +6394,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Para rotacion\xE1-la, toque e arraste o dedo pela tela."
+  m_text: "Para rotacion\xE1-la, toque e arraste o dedo pela tela.\n\nTocando nas
+    organelas voc\xEA ver\xE1 informa\xE7\xF5es e curiosidades sobre elas."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6435,7 +6436,7 @@ MonoBehaviour:
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
+  m_paragraphSpacing: -36.72
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
