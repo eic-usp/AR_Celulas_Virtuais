@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: CitoskeletonData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Este \xE9 o citoesqueleto!"
+  <Description>k__BackingField: "O citoesqueleto \xE9 uma rede tridimensional de
+    fibras proteicas interligadas. \xC9 respons\xE1vel pela forma e sustenta\xE7\xE3o
+    interna das c\xE9lulas, pelos movimentos celulares e pela movimenta\xE7\xE3o
+    de certas organelas no interior das c\xE9lulas, como \xE9 o caso de mitoc\xF4ndrias
+    e lisossomos."
+  <Audio>k__BackingField: {fileID: 0}

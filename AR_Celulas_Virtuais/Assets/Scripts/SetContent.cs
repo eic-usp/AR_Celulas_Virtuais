@@ -17,4 +17,6 @@ public class SetContent : MonoBehaviour
         organelleNameText.text = organelleData.Name;
         organelleDescriptionText.text = organelleData.Description;
     }
+
+    private void CloseBox() { Box.SetActive(false);}
 }

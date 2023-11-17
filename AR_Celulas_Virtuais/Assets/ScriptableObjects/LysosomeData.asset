@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: LysosomeData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Este \xE9 o lisossomo!"
+  <Description>k__BackingField: "Os lisossomos surgem como ves\xEDculas liberadas
+    pelo complexo de Golgi. Possuem formato geralmente esf\xE9rico e s\xE3o constitu\xEDdas
+    por uma membrana envolvendo enzimas hidrol\xEDticas. \n\nSua fun\xE7\xE3o est\xE1
+    relacionada \xE0 digest\xE3o intracelular, tanto de part\xEDculas alimentares
+    que s\xE3o incorporadas pela c\xE9lula, como de componentes celulares desgastados
+    ou danificados."
+  <Audio>k__BackingField: {fileID: 0}
