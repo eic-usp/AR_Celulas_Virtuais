@@ -682,6 +682,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &26795359
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1119,6 +1120,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &52506170
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1173,6 +1175,134 @@ Transform:
   m_Father: {fileID: 1127243225}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -0.335, y: 3.355, z: 5.689}
+--- !u!1 &73932029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 73932031}
+  - component: {fileID: 73932030}
+  m_Layer: 0
+  m_Name: Audio Source
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &73932030
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 73932029}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0.345
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.473
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &73932031
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 73932029}
+  m_LocalRotation: {x: 0.550783, y: -0.73522484, z: 0.17862414, w: 0.35238618}
+  m_LocalPosition: {x: 1.09, y: 2.516, z: 0.267}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &121808924
 GameObject:
   m_ObjectHideFlags: 0
@@ -1277,6 +1407,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!64 &155954336
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1646,6 +1777,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &167468474
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1688,6 +1820,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &170161558
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1730,6 +1863,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &206431240
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2527,6 +2661,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &262438689
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2597,7 +2732,7 @@ Transform:
   - {fileID: 341824410}
   - {fileID: 639079940}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &287874250
 GameObject:
@@ -2697,7 +2832,7 @@ RectTransform:
   - {fileID: 832356356}
   - {fileID: 161923607}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2881,6 +3016,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!1 &319695037
 GameObject:
   m_ObjectHideFlags: 0
@@ -3115,6 +3251,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &330775333
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3721,6 +3858,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &378831155
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -4740,6 +4878,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &383210205
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5429,6 +5568,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!64 &437484155
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6235,6 +6375,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!64 &511038183
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6278,6 +6419,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &521966884
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6320,6 +6462,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &528655162
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6940,6 +7083,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &599964654
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7162,7 +7306,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &618355688
 GameObject:
@@ -7884,6 +8028,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &653179697
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9116,6 +9261,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &758381096
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9200,6 +9346,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!1 &770186986 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1389998893438868, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
@@ -9221,6 +9368,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &770186991
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9429,6 +9577,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &813609820
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9471,6 +9620,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!1 &825742832 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1538973666661078, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
@@ -9492,6 +9642,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &825742837
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9534,6 +9685,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &825912142
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9989,6 +10141,7 @@ MonoBehaviour:
   Box: {fileID: 0}
   organelleNameText: {fileID: 0}
   organelleDescriptionText: {fileID: 0}
+  organelleAudio: {fileID: 0}
 --- !u!1 &914399512 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1715654997407232, guid: 99e0bb4ccaf7e674492a5a05a402db9d, type: 3}
@@ -10010,6 +10163,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &914399517
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10079,6 +10233,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!64 &918135351
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10278,6 +10433,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &963102632
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10398,6 +10554,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!65 &982896104
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10440,6 +10597,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &987523363
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10482,6 +10640,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1001126919
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10602,6 +10761,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!65 &1048908681
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10806,6 +10966,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1068884921
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10985,6 +11146,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1107101687
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12678,6 +12840,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1184926390
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12720,6 +12883,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1188015431
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12998,6 +13162,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1244246024
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13258,6 +13423,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1273217290
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13679,6 +13845,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1320218170
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13887,6 +14054,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1355137707
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13929,6 +14097,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1359011562
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15003,6 +15172,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1376758877
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15045,6 +15215,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1378256365
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16055,6 +16226,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1453834794
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16097,6 +16269,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1506997216
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16283,7 +16456,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1528181881
 MonoBehaviour:
@@ -16301,6 +16474,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 0}
   organelleDescriptionText: {fileID: 0}
+  organelleAudio: {fileID: 0}
 --- !u!1 &1531664387
 GameObject:
   m_ObjectHideFlags: 0
@@ -16336,7 +16510,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180.858}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1.4779968, y: -1.2600002}
+  m_AnchoredPosition: {x: 1.5, y: -1.2600002}
   m_SizeDelta: {x: 6.386, y: 5.242}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1531664389
@@ -16485,6 +16659,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1563929469
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16662,6 +16837,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1594363047
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -17389,6 +17565,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1666372435
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -17698,6 +17875,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1685575733
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -17740,6 +17918,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1686756242
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -18052,6 +18231,18 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 73932030}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Stop
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -18464,7 +18655,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1803552949
 GameObject:
@@ -19607,6 +19798,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1821106309
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -19727,6 +19919,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1864918511
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -19984,6 +20177,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!1 &1897084012
 GameObject:
   m_ObjectHideFlags: 0
@@ -20088,6 +20282,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &1944332279
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -20844,6 +21039,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &2080522654
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -20969,6 +21165,7 @@ MonoBehaviour:
   Box: {fileID: 161923606}
   organelleNameText: {fileID: 453892713}
   organelleDescriptionText: {fileID: 49069521}
+  organelleAudio: {fileID: 73932030}
 --- !u!135 &2093361004
 SphereCollider:
   m_ObjectHideFlags: 0
