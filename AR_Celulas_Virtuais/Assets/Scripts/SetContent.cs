@@ -13,7 +13,7 @@ public class SetContent : MonoBehaviour
     [SerializeField] private AudioSource organelleAudio;
 
 
-    private void OnMouseUp()
+    private void OnMouseDown()
     {
 
         Box.SetActive(true);
@@ -22,10 +22,5 @@ public class SetContent : MonoBehaviour
         organelleAudio.clip = organelleData.Audio;
         organelleAudio.Play();
 
-    }
-
-    public void CloseBox() 
-    {
-        organelleAudio.Stop();
     }
 }
