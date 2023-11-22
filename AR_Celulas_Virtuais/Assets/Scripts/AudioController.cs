@@ -11,7 +11,8 @@ public class AudioController : MonoBehaviour
 
     void Start()
     {
-        ImageBool();
+        soundOn.enabled = true;
+        soundOff.enabled = false;
     }
 
     public void DescriptionSound()

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: ProCellWallData 1
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Esta \xE9 a parede celular!"
+  <Description>k__BackingField: "A c\xE9lula procari\xF3tica \xE9 delimitada pela
+    parede celular, uma estrutura espessa e r\xEDgida formada principalmente por
+    peptoglicanos, macromol\xE9culas constitu\xEDdas por carboidratos e pequenos
+    pept\xEDdeos. A parede celular oferece sustenta\xE7\xE3o e prote\xE7\xE3o mec\xE2nica
+    aos constituintes celulares, al\xE9m de fornecer resist\xEAncia ao aumento excessivo
+    de volume causado pela entrada de \xE1gua mantendo na forma da c\xE9lula evitando
+    seu rompimento."
+  <Audio>k__BackingField: {fileID: 8300000, guid: ae362b38922ed8241bcd03cb1a3c0b3f, type: 3}

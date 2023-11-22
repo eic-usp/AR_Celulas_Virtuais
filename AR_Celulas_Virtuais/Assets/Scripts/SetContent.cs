@@ -15,7 +15,6 @@ public class SetContent : MonoBehaviour
 
     private void OnMouseDown()
     {
-
         Box.SetActive(true);
         organelleNameText.text = organelleData.Name;
         organelleDescriptionText.text = organelleData.Description;

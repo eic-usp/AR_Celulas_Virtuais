@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: VegCellWallData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Esta \xE9 a parede celular!"
+  <Description>k__BackingField: "A parede celular \xE9 a estrutura mais externa das
+    c\xE9lulas vegetais. \xC9 constitu\xEDda basicamente por celulose, uma macro
+    mol\xE9cula pertencente ao grupo dos carboidratos. Por ser espessa e r\xEDgida,
+    ela oferece sustenta\xE7\xE3o e prote\xE7\xE3o mec\xE2nica aos demais componentes
+    celulares. A parede celular tamb\xE9m fornece resist\xEAncia ao aumento excessivo
+    do volume da c\xE9lula causada pela entrada de \xE1gua, mantendo assim a sua
+    forma e evitando o seu rompimento."
+  <Audio>k__BackingField: {fileID: 8300000, guid: da90c59fd6157604580609f523dec23f, type: 3}
