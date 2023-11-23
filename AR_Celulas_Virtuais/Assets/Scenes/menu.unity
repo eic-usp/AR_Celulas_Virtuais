@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731704, g: 0.13414727, b: 0.121078536, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731715, g: 0.13414735, b: 0.121078536, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -280,7 +280,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -32}
+  m_AnchoredPosition: {x: 3, y: -32}
   m_SizeDelta: {x: 659.85, y: 1182.058}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &106412828
@@ -1126,7 +1126,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &179749110
@@ -3317,7 +3317,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &908898912
@@ -3884,7 +3884,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -178, y: -671}
+  m_AnchoredPosition: {x: -172, y: -671}
   m_SizeDelta: {x: -381.463, y: 264.033}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112988925
@@ -3942,7 +3942,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -3971,7 +3971,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 18.237732, y: -11.352768, z: -95.59277, w: -0.02167518}
+  m_margin: {x: 18.237732, y: -11.352768, z: -78.25397, w: -0.02167518}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4098,7 +4098,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1139896221
@@ -5294,7 +5294,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -229.99612, y: -368}
+  m_AnchoredPosition: {x: -229.99615, y: -368}
   m_SizeDelta: {x: -489.494, y: 163.81396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341833845
@@ -5503,7 +5503,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1401040264
@@ -5835,7 +5835,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1473933332
@@ -6371,7 +6371,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 105.972, y: -367}
+  m_AnchoredPosition: {x: 87, y: -367}
   m_SizeDelta: {x: -293.215, y: 273.61}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1670541362
@@ -6395,7 +6395,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Para rotacion\xE1-la, toque e arraste o dedo pela tela.\n\nTocando nas
-    organelas voc\xEA ver\xE1 informa\xE7\xF5es e curiosidades sobre elas."
+    organelas voc\xEA ver\xE1 e ouvir\xE1 informa\xE7\xF5es e curiosidades sobre
+    elas."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6458,7 +6459,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -1.1119232, y: -0.32275409, z: 0, w: 2.5047147}
+  m_margin: {x: -1.1119232, y: -0.32275409, z: -25.847542, w: -17.949127}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -6509,7 +6510,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 5.423584, y: -654.5332}
+  m_AnchoredPosition: {x: 1, y: -654.5332}
   m_SizeDelta: {x: 632.44995, y: 151.963}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1682445888
@@ -7202,7 +7203,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1813167824
@@ -8517,7 +8518,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8.121216, y: -22.999994}
+  m_AnchoredPosition: {x: 8.121216, y: -22.999992}
   m_SizeDelta: {x: -16.242, y: -61.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2123293577
