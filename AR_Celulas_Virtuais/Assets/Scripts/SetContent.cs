@@ -15,11 +15,14 @@ public class SetContent : MonoBehaviour
 
     private void OnMouseDown()
     {
-        Box.SetActive(true);
-        organelleNameText.text = organelleData.Name;
-        organelleDescriptionText.text = organelleData.Description;
-        organelleAudio.clip = organelleData.Audio;
-        organelleAudio.Play();
+        if (!Box.activeSelf)
+        {
+            Box.SetActive(true);
+            organelleNameText.text = organelleData.Name;
+            organelleDescriptionText.text = organelleData.Description;
+            organelleAudio.clip = organelleData.Audio;
+            organelleAudio.Play();
+        }
 
     }
 }
