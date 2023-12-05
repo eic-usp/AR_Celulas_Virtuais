@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: VacuoleData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Este \xE9 o vac\xFAolo!"
+  <Description>k__BackingField: "Os vac\xFAolos cont\xEAm uma solu\xE7\xE3o aquosa
+    de sais, carboidratos, prote\xEDnas, entre outros compostos, delimitada por uma
+    membrana lipoproteica denominada tonoplasto. Al\xE9m de participar do controle
+    do equil\xEDbrio osm\xF3tico celular, alterando a sua concentra\xE7\xE3o com
+    trocas de volume de \xE1gua com o meio extracelular os vac\xFAolos atuam como
+    dep\xF3sitos de subst\xE2ncias."
+  <Audio>k__BackingField: {fileID: 8300000, guid: 8f8a54ae130681d4cb6bd5eb20b4e477, type: 3}

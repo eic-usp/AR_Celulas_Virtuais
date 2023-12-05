@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: PlasmaMembraneData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Esta \xE9 a membrana plasm\xE1tica!"
+  <Description>k__BackingField: "A membrana plasm\xE1tica auxilia a manter praticamente
+    constante a composi\xE7\xE3o qu\xEDmica do citoplasma, controlando seletivamente
+    a entrada e a sa\xEDda de v\xE1rias subst\xE2ncias. Embora permita livre passagem
+    de algumas pequenas mol\xE9culas neutras como \xE1gua, oxig\xEAnio e g\xE1s carb\xF4nico.
+    \n\nEla \xE9 composta por duas camadas fluidas de mol\xE9culas de lip\xEDdios
+    e por prote\xEDnas que podem estar mergulhadas ou somente associadas a estas
+    camadas. A superf\xEDcie da membrana plasm\xE1tica em contato com os meios intra
+    e extra celulares s\xE3o hidrof\xEDlicas enquanto o seu interior \xE9 hidrof\xF3bico."
+  <Audio>k__BackingField: {fileID: 8300000, guid: e92dab3e939fcc34699d62cff6bec7df, type: 3}

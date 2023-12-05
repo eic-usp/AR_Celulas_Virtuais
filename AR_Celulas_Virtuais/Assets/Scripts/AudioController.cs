@@ -1,26 +1,46 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AudioController : MonoBehaviour
 {
-    // // Script controla o audio de cada organella que aparece eno painel.
-    // // Script deve esta no objeto imgorgane
-    [SerializeField] private GameObject animalCell;
-    [SerializeField] private GameObject plantCell;
-    [SerializeField] private GameObject procariotiCell;
-    [SerializeField] private GameObject imgOrganellPainel;
+    private bool audioOn;
+    [SerializeField] Image soundOff;
+    [SerializeField] Image soundOn;
 
-    private void Start() 
+    void Start()
     {
-     animalCell.GetComponent<AudioSource>().Stop();
-     plantCell.GetComponent<AudioSource>().Stop();
-     procariotiCell.GetComponent<AudioSource>().Stop();
+        soundOn.enabled = false;
+        soundOff.enabled = true;
     }
 
-
-    public void BtnCloseImgOrganellsPanel()
+    public void DescriptionSound()
     {
-         imgOrganellPainel.SetActive(false);
+        audioOn = !audioOn;
+        if (audioOn == true)
+        {
+            AudioListener.volume = 1;
+        }
+        else
+        {
+            AudioListener.volume = 0;
+        }
+
+        ImageBool();
+    }
+
+    private void ImageBool()
+    {
+        if (audioOn == false)
+        {
+            soundOn.enabled = true;
+            soundOff.enabled = false;
+        }
+        else
+        {
+            soundOn.enabled = false;
+            soundOff.enabled = true;
+        }
     }
 }

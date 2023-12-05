@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: PilliData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Esta \xE9 a f\xEDmbria!"
+  <Description>k__BackingField: "As f\xEDmbrias podem estar presentes tanto em procariotos
+    m\xF3veis como naqueles sem movimento. Nas raras ocasi\xF5es nas quais h\xE1
+    conjuga\xE7\xE3o, ou seja a reprodu\xE7\xE3o sexuada de procariotos, o material
+    gen\xE9tico \xE9 transferido de um indiv\xEDduo para outro por interm\xE9dio
+    das f\xEDmbrias."
+  <Audio>k__BackingField: {fileID: 8300000, guid: 1c8a7b3029ee4e7459548737cf365fe4, type: 3}
