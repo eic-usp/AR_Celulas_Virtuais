@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: CytoplamData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Este \xE9 o citoplasma da c\xE9lula!"
+  <Description>k__BackingField: "O citosol, hialoplasma, ou matriz citoplasm\xE1tica
+    \xE9 um fluido gelatinoso que preenche todos os espa\xE7os dentro da c\xE9lula
+    procari\xF3tica. \n\n\xC9 constitu\xEDdo por \xE1gua, prote\xEDnas, especialmente
+    enzimas, a\xE7\xFAcares, bases nitrogenadas, que s\xE3o precursoras dos \xE1cidos
+    nucleicos, DNA e RNA, amino\xE1cidos (que s\xE3o as unidades que constituem as
+    prote\xEDnas), al\xE9m de lip\xEDdeos, carboidratos, polirribossomos e ribossomos
+    livres."
+  <Audio>k__BackingField: {fileID: 8300000, guid: 2f6edf9e23da96f41ac26f7543f46a0f, type: 3}

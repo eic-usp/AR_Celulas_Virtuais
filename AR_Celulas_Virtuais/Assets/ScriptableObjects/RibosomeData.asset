@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: RibosomeData
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "Este \xE9 o ribossomo!"
+  <Description>k__BackingField: "Os ribossomos, geralmente numerosos, atuam no processo
+    de s\xEDntese proteica. S\xE3o formados por duas subunidades de tamanhos diferentes
+    dispostas uma sobre a outra. Estas subunidades s\xE3o constitu\xEDdas basicamente
+    por prote\xEDnas e RNA riboss\xF4mico. Ap\xF3s o t\xE9rmino da s\xEDntese proteica
+    ocorre desacoplamento da subunidades riboss\xF4micas que permanecem separadas
+    do citosol at\xE9 se associarem novamente para dar in\xEDcio a uma nova tradu\xE7\xE3o."
+  <Audio>k__BackingField: {fileID: 8300000, guid: c20221abf4260064da72d847d51ae770, type: 3}
