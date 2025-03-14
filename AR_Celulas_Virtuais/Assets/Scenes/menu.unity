@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731704, g: 0.13414727, b: 0.121078536, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2894,7 +2894,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Espa\xE7o Iterativo de Ci\xEAncias\n"
+  m_text: "Espa\xE7o Interativo de Ci\xEAncias\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f21e60520b116084b906dec9ca8f9e24, type: 2}
   m_sharedMaterial: {fileID: -1102672270779692783, guid: f21e60520b116084b906dec9ca8f9e24, type: 2}
@@ -5532,7 +5532,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -229.99615, y: -368}
+  m_AnchoredPosition: {x: -229.99612, y: -368}
   m_SizeDelta: {x: -489.494, y: 163.81396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341833845
