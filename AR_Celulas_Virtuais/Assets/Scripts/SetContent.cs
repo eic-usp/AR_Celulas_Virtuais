@@ -4,7 +4,7 @@ public class SetContent : MonoBehaviour
 {
     [SerializeField] private OrganelleData organelleData;
     
-    public void OnMouseDown()
+    public void OnMouseUp()
     {
         // if (Input.touchCount <= 0) return;
         //
