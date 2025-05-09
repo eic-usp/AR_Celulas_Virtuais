@@ -67,6 +67,20 @@ MonoBehaviour:
     m_Localized: "\rDownload images"
     m_Metadata:
       m_Items: []
+  - m_Id: 10428849425776640
+    m_Localized: Here the Name of the Cell Organelle will appear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10429769236643840
+    m_Localized: "In the pulsating microcosm of a cell, where life unfolds in a spectacle
+      of intricate molecular dances, organelles play fundamental roles. Imagine yourself
+      entering this tiny universe, where each structure plays a unique role, contributing
+      to the essential harmony of the cell.\r\n\r\nAt the epicenter is the nucleus,
+      the genetic library that holds the instructions for the cell\u2019s existence.
+      Here, chromosomes dance, intertwining in a genetic ballet that shapes the cell\u2019s
+      identity and guides its destiny."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

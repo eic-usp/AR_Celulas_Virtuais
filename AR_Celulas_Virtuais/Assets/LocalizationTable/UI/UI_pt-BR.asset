@@ -64,6 +64,21 @@ MonoBehaviour:
     m_Localized: Download das imagens
     m_Metadata:
       m_Items: []
+  - m_Id: 10428849425776640
+    m_Localized: "Aqui aparecer\xE1 o Nome da Organela da C\xE9lula"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10429769236643840
+    m_Localized: "No microcosmo pulsante de uma c\xE9lula, onde a vida se desdobra
+      em um espet\xE1culo de intrincadas dan\xE7as moleculares, as organelas assumem
+      pap\xE9is fundamentais. Imagine-se adentrando este universo min\xFAsculo, onde
+      cada estrutura desempenha uma fun\xE7\xE3o \xFAnica, contribuindo para a harmonia
+      essencial da c\xE9lula.\r\n\r\nNo epicentro, est\xE1 o n\xFAcleo, a biblioteca
+      gen\xE9tica que guarda as instru\xE7\xF5es para a exist\xEAncia da c\xE9lula.
+      Aqui, os cromossomos dan\xE7am, entrela\xE7ando-se em um bal\xE9 gen\xE9tico
+      que molda a identidade da c\xE9lula e conduz seu destino.\r"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

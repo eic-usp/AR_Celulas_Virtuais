@@ -8,6 +8,7 @@ public class LangControl : MonoBehaviour
     
     public void TrocaBandeira()
     {
+        selectLocal = LocalizationSettings.AvailableLocales.Locales.IndexOf(LocalizationSettings.SelectedLocale);
         if (selectLocal == LocalizationSettings.AvailableLocales.Locales.Count - 1)
             selectLocal = 0;
         else selectLocal++;
