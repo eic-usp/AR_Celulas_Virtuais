@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Portuguese (Brazil) (pt-BR)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Portuguese (Brazil) (pt-BR)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f02ba616f291d1344a6a3044951b8a38
+  m_SerializeEntries:
+  - m_GUID: d907f78f2b43b3646b220caabc210384
+    m_Address: VVacuoloNovo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a519ccece7c5424a87aec2b95975db2
+    m_Address: PMembrana2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbfa7b1236562d842a643867107e2e0c
+    m_Address: VReticuloEndoplasmaticoRugoso
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76404a603be18db478c5a1abe92c89e5
+    m_Address: VRibossomo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10324476439acd04fbc0f6030194101e
+    m_Address: VReticuloEndoplasmaticoLiso
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9a08b5627fd84746b009baf39034d1e
+    m_Address: VPlasmodemos
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d584b6fc8bef1d84e9765be5f4800296
+    m_Address: VParedeCelular
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c85c4d2e01c474949b9a3e5eba88d12c
+    m_Address: VPeroxissomo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2995d064dc2042246a3f62c7bcd48692
+    m_Address: VNucleo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7aea2419fa79484882abcafc8ffc1f5
+    m_Address: VMitocondria
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 042a1c7298e62204e9ccb54eabb7a0aa
+    m_Address: VMembranaPlasmatica
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59d0d6fa5bc71ec4a99f233e3a74d71d
+    m_Address: VCitoesqueleto
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0530b900490234341bc74551ea0885c7
+    m_Address: VComplexoGolgi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a83b72d14b648ce45a0748217fbb3886
+    m_Address: VCloroplasto
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a3bd0862a63bee48a7e1993be8b09ec
+    m_Address: VIntrodutorio
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c19026c1f11def84cbf54aa845c3a728
+    m_Address: VLeucoplasto
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93e4a995762cb524a911f0e475f41df1
+    m_Address: ARibossomo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9003044da4cb9140a0a65bd2668e6e6
+    m_Address: AReticuloEndoplasmaticoRugoso
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97744c2106aaa634a953c68ec1f9729f
+    m_Address: AReticuloEndoplasmaticoLiso
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 368df14c3660dad4e889a407eb1326b0
+    m_Address: APeroxissomo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 810b6133faf6d6a4490e6f32a942948f
+    m_Address: ACentriolos
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b033b3029bd3fa6499ec81b937d5f5c6
+    m_Address: ALisossomos
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f847c5701cacb4444ae2ec13f28ada33
+    m_Address: AMitocondria
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdb68887f643e3d4c9fac208aa831d83
+    m_Address: AMembranaPlasmaticaNovo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc3772091e390aa43bb11ac389401fc1
+    m_Address: AIntrodutorio
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5351ec7f062fbc41aeeba6a5b0d9c6b
+    m_Address: ANucleo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fd446558a9876e489655c81741bb004
+    m_Address: ACitoesqueleto
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2fca0df78ddf35488831e9b2f47ad81
+    m_Address: AComplexoGolgi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f22c953e6f6ff9049b48ccc0bcacfeb9
+    m_Address: ACitosol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 326b0438f1bc3f64ba842f72ce90fb9c
+    m_Address: PCapsula
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c734d6b8d23bc2c4aaa64efd18fb1da8
+    m_Address: PRibossomo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5216d16f511f98428b7501b24e4fe6b
+    m_Address: PPlasmideo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62bc95091f62ed143b05ba986c76ade8
+    m_Address: PPili
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd63a1586c1d04443ac4b6b4076aea2e
+    m_Address: PMaterialGenetico
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a220fc8f68310724b984833e8cd184bb
+    m_Address: PParedeCelular
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c20e45a6d3724f24b85c742d5d49892a
+    m_Address: PFlagelo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19a91a2791065024ba1209f20babbe0b
+    m_Address: PFimbrias
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4373fb62a015bb45903044d33e94ca1
+    m_Address: PCitosol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae45f0e1585db974c89f6dbc9c3cb9bb
+    m_Address: brasil
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2bfed82115763b641a511b272a5bc63e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b5915a5c5780f5419d83271349bac82, type: 2}
+    - {fileID: 11400000, guid: 75c1e7f6d3a021546ab5c0543ca405ac, type: 2}

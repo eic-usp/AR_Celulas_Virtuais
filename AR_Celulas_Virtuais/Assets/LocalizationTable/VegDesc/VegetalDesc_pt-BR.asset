@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: VegetalDesc_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: fb86dfeacc3e2c64bb2bd7caa93a8834, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1003687542784
+    m_Localized: "C\xE9lula eucari\xF3tica vegetal em corte. Saiba o nome de suas
+      estruturas  passando  o mouse sobre ela e clique para conhec\xEA-la melhor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902912
+    m_Localized: "Citoesqueleto  \xE9 uma rede tridimensional de fibras proteicas
+      interligadas. \xC9 respons\xE1vel pela forma e sustenta\xE7\xE3o interna das
+      c\xE9lulas, pelos movimentos celulares e pela movimenta\xE7\xE3o de certas
+      estruturas no interior das c\xE9lulas, como \xE9 o caso de mitoc\xF4ndrias
+      e lisossomos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902913
+    m_Localized: "O citosol, citoplasma ou hialoplasma, \xE9 um fluido gelatinoso
+      que preenche todos os espa\xE7os entre as estruturas membranosas e a rede que
+      comp\xF5e o citoesqueleto. \xC9 no citoplasma que ocorrem in\xFAmeras rea\xE7\xF5es
+      qu\xEDmicas relacionadas ao metabolismo celular. \xC9 constitu\xEDdo por \xE1gua,
+      prote\xEDnas, especialmente enzimas (na forma de precursores), a\xE7\xFAcares,
+      amino\xE1cidos, bases nitrogenadas, lip\xEDdeos e carboidratos. Os amino\xE1cidos
+      ser\xE3o utilizados para a s\xEDntese das prote\xEDnas e as bases nitrogenadas
+      ser\xE3o utilizadas na s\xEDntese dos \xE1cidos nucleicos (DNA e RNA)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902914
+    m_Localized: "Os Cloroplastos s\xE3o as estruturas respons\xE1veis pelo processo
+      de fotoss\xEDntese e possuem seu pr\xF3prio DNA. S\xE3o delimitados por duas
+      membranas lipoproteicas e preenchidos por um fluido gelatinoso chamado estroma,
+      no qual est\xE3o mergulhadas pilhas de discos membranosos conectados entre
+      si por lamelas. Cada pilha \xE9 denominada granum, enquanto os discos, estruturas
+      que cont\xEAm o pigmento clorofila, s\xE3o os tilac\xF3ides."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902915
+    m_Localized: "Leucoplasto s\xE3o estruturas delimitadas por membrana, que armazenam
+      amido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902916
+    m_Localized: "O Complexo de Golgi \xE9 constitu\xEDdo por um sistema de ves\xEDculas
+      membranosas, al\xE9m de outras menores esf\xE9ricas, que se formam a partir
+      das primeiras. Suas membranas s\xE3o lipoproteicas e nunca apresentam ribossomos
+      aderidos.\nSuas fun\xE7\xF5es est\xE3o relacionadas com o armazenamento e o
+      encaminhamento das prote\xEDnas produzidas no ret\xEDculo endoplasm\xE1tico
+      rugoso.\nAs ves\xEDculas menores transportam as macromol\xE9culas sintetizadas
+      para outros locais, dentro ou fora das c\xE9lulas. No complexo de Golgi tamb\xE9m
+      ocorre a s\xEDntese de polissacar\xEDdeos, sendo que alguns deles s\xE3o ligados
+      \xE0s prote\xEDnas para formar as glicoprote\xEDnas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902917
+    m_Localized: "A membrana plasm\xE1tica auxilia a manter praticamente constante
+      a composi\xE7\xE3o qu\xEDmica do citoplasma, controlando seletivamente a entrada
+      e sa\xEDda de v\xE1rias subst\xE2ncias, embora permita livre passagem de algumas
+      pequenas mol\xE9culas neutras: como \xE1gua, oxig\xEAnio e g\xE1s carb\xF4nico.
+      Ela \xE9 composta por duas camadas fluidas de mol\xE9culas de fosfolip\xEDdios,
+      por prote\xEDnas que podem estar mergulhadas ou somente associadas a estas
+      camadas, colesterol e glicoprote\xEDnas. Nas c\xE9lulas vegetais est\xE1 conectada
+      \xE0 parede celular. A superf\xEDcie da membrana plasm\xE1tica, voltada para
+      fora e para dentro da c\xE9lula possuem car\xE1ter hidrof\xEDlico devido aos
+      grupos fosfato, ou seja, interagem com o meio aquoso, enquanto que as caudas
+      lip\xEDdicas, que s\xE3o hidrof\xF3bicas, est\xE3o voltadas para o interior
+      da membrana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902918
+    m_Localized: "As mitoc\xF4ndrias t\xEAm como fun\xE7\xE3o a produ\xE7\xE3o de
+      energia atrav\xE9s do processo de respira\xE7\xE3o celular aer\xF3bica. Ela
+      possui duas membranas: uma externa lisa e cont\xEDnua e outra interna, pregueada
+      devido \xE0s invagina\xE7\xF5es que formam as cristas mitocondriais. A membrana
+      interna delimita o interior das mitoc\xF4ndrias, ou seja, sua matriz, onde
+      est\xE1 mergulhado o DNA mitocondrial, enzimas e outros componentes da matriz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902919
+    m_Localized: "O n\xFAcleo \xE9 delimitado pela membrana chamada carioteca, a
+      qual possui poros que permitem a comunica\xE7\xE3o com o citoplasma, al\xE9m
+      da conex\xE3o com o Ret\xEDculo Endoplasm\xE1tico Rugoso. No n\xFAcleo est\xE3o
+      os cromossomos e um ou mais nucl\xE9olos. Os cromossomos s\xE3o formados por
+      mol\xE9culas de DNA que est\xE3o envoltas por prote\xEDnas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902920
+    m_Localized: "Os nucl\xE9olos s\xE3o estruturas onde ocorre o ac\xFAmulo de mol\xE9culas
+      de RNA riboss\xF4mico e RNA transportador, ap\xF3s serem sintetizadas, al\xE9m
+      de prote\xEDnas. Estas mol\xE9culas, ap\xF3s serem transportadas para o citoplasma
+      ir\xE3o formar os ribossomos. Quando a c\xE9lula n\xE3o est\xE1 em divis\xE3o,
+      os cromossomos se apresentam como emaranhados de filamentos longos e finos
+      de DNA dispersos no fluido nuclear, constituindo a chamada cromatina. As por\xE7\xF5es
+      condensadas da cromatina constituem a heterocromatina, enquanto as regi\xF5es
+      descondensadas constituem a eucromatina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902921
+    m_Localized: "A parede celular \xE9 a estrutura mais externa das c\xE9lulas vegetais,
+      uma estrutura semirr\xEDgida, espessa, que circunda a membrana plasm\xE1tica.
+      \xC9 constitu\xEDda por um complexo de peptideoglicanos, polissacar\xEDdeos
+      (cujo mais abundante \xE9 a celulose) e pequenos pept\xEDdeos. A parede tem,
+      sobretudo, fun\xE7\xE3o protetora mec\xE2nica e de sustenta\xE7\xE3o aos constituintes
+      celulares, al\xE9m de fornecer resist\xEAncia a um aumento excessivo de volume
+      causado pela entrada de \xE1gua, mantendo a forma da c\xE9lula e evitando seu
+      rompimento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902922
+    m_Localized: "Os peroxissomos s\xE3o estruturas arredondadas delimitadas por
+      uma membrana. Em seu interior encontra-se a enzima catalase, cuja fun\xE7\xE3o
+      \xE9 decompor o per\xF3xido de hidrog\xEAnio, subst\xE2ncia t\xF3xica que se
+      forma atrav\xE9s de algumas rea\xE7\xF5es que ocorrem normalmente nas c\xE9lulas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902923
+    m_Localized: "Os plasmodesmos s\xE3o regi\xF5es de contatos entre c\xE9lulas
+      vegetais vizinhas, que s\xE3o \u201Cencaixadas\u201D umas \xE0s outras. S\xE3o
+      originados pela aus\xEAncia de deposi\xE7\xE3o de celulose na parede celular
+      e atrav\xE9s deles h\xE1 interc\xE2mbio de subst\xE2ncias entre as c\xE9lulas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902924
+    m_Localized: "O ret\xEDculo endoplasm\xE1tico liso \xE9 um sistema de canais
+      tubulares limitados por membranas lipoproteicas, continuados a partir do ret\xEDculo
+      endoplasm\xE1tico rugoso. N\xE3o possui ribossomos aderidos. Suas fun\xE7\xF5es
+      compreendem o transporte intracelular de subst\xE2ncias, s\xEDntese de lip\xEDdeos,
+      inativa\xE7\xE3o de subst\xE2ncias t\xF3xicas \xE0s c\xE9lulas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902925
+    m_Localized: "O ret\xEDculo endoplasm\xE1tico rugoso \xE9 um sistema de canais
+      limitados por membranas lipoproteicas na forma de s\xE1culos e ves\xEDculas
+      achatadas que se comunicam com a carioteca. Possui ribossomos aderidos \xE0
+      face da membrana voltada ao citoplasma. Suas fun\xE7\xF5es compreendem o transporte
+      intracelular de prote\xEDnas, sintetizadas pelos ribossomos, bem como por modifica\xE7\xF5es
+      que algumas prote\xEDnas podem sofrer, at\xE9 serem encaminhadas ao complexo
+      de Golgi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902926
+    m_Localized: "Os ribossomos, geralmente numerosos, atuam no processo de s\xEDntese
+      proteica. S\xE3o formados por duas subunidades, uma maior e outra menor, que
+      s\xE3o acopladas uma sobre a outra durante a s\xEDntese proteica. S\xE3o constitu\xEDdas
+      basicamente por prote\xEDnas e RNA riboss\xF4mico. Ap\xF3s o t\xE9rmino da
+      s\xEDntese proteica ocorre o desacoplamento das subunidades riboss\xF4micas
+      que permanecem separadas no citosol (ou anexadas no RER) at\xE9 se associarem
+      novamente para dar in\xEDcio a uma nova tradu\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902927
+    m_Localized: "Os vac\xFAolos cont\xE9m solu\xE7\xE3o aquosa de sais, carboidratos,
+      prote\xEDnas (dentre elas as enzimas produzidas pela planta), entre outros
+      compostos. Eles s\xE3o delimitados por uma membrana fina denominada tonoplasto.
+      Al\xE9m de participar do controle do equil\xEDbrio osm\xF3tico celular, alterando
+      a sua concentra\xE7\xE3o com trocas de volume da \xE1gua com o meio extracelular,
+      os vac\xFAolos atuam como dep\xF3sito de subst\xE2ncias produzidas nas c\xE9lulas
+      vegetais."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

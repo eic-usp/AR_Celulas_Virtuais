@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AnimalDesc_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 9e4e6b7d120328c48b5421e71cc1b463, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30311219200
+    m_Localized: Here you can observe a cross-section of a eukaryotic animal cell.
+      Hover over a structure to learn its name and click to explore further.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996416
+    m_Localized: Centrioles are cylindrical structures made of bundles of three parallel
+      microtubules. Centrioles are absent in prokaryotes and flowering plants, while
+      two perpendicular centrioles are typically present in animals. After duplication,
+      they guide spindle fiber formation during cell division. They also participate
+      in the formation of cilia and flagella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996417
+    m_Localized: "The cytoskeleton is a three-dimensional network of interlinked
+      protein fibers. It is responsible for the cell\u2019s shape and internal support,
+      cell movements, and the movement of structures within the cell, such as mitochondria
+      and lysosomes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996418
+    m_Localized: The cytosol, cytoplasm, or hyaloplasm, is a gel-like fluid that
+      fills the spaces between membranous structures and the cytoskeleton. Numerous
+      chemical reactions related to cellular metabolism occur in the cytoplasm. It
+      consists of water, proteins (especially enzyme precursors), sugars, amino acids,
+      nitrogenous bases, lipids, and carbohydrates. Amino acids are used for protein
+      synthesis, while nitrogenous bases are utilized in the synthesis of nucleic
+      acids (DNA and RNA).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996419
+    m_Localized: The Golgi Complex consists of a system of membranous vesicles and
+      smaller spherical vesicles formed from the former. Its membranes are lipoprotein-based
+      and never have ribosomes attached. The Golgi Complex stores and transports
+      proteins produced in the rough endoplasmic reticulum. Smaller vesicles transport
+      synthesized macromolecules to other locations, either inside or outside the
+      cell. Polysaccharide synthesis also occurs in the Golgi Complex, with some
+      being linked to proteins to form glycoproteins.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996420
+    m_Localized: "The plasma membrane helps maintain the chemical composition of
+      the cytoplasm by selectively controlling the entry and exit of substances,
+      while allowing free passage of small neutral molecules such as water, oxygen,
+      and carbon dioxide. It consists of two fluid layers of phospholipid molecules,
+      proteins embedded or associated with these layers, cholesterol, and glycoproteins.
+      The plasma membrane\u2019s outer and inner surfaces are hydrophilic due to
+      phosphate groups, interacting with the aqueous environment, while the hydrophobic
+      lipid tails face the membrane's interior."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996421
+    m_Localized: Lysosomes originate from vesicles released by the Golgi Complex.
+      They are generally spherical and consist of a membrane enclosing hydrolytic
+      enzymes. Their function is related to intracellular digestion of both food
+      particles incorporated by the cell and worn-out or damaged cellular components.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996422
+    m_Localized: 'Mitochondria produce energy through aerobic cellular respiration.
+      They have two membranes: an outer smooth and continuous membrane and an inner
+      folded membrane forming mitochondrial cristae. The inner membrane surrounds
+      the mitochondrial matrix, which contains mitochondrial DNA, enzymes, and other
+      components.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996423
+    m_Localized: The nucleus is enclosed by a membrane called the nuclear envelope,
+      which has pores that allow communication with the cytoplasm and connections
+      to the rough endoplasmic reticulum. The nucleus contains chromosomes and one
+      or more nucleoli. Chromosomes are composed of DNA molecules wrapped in proteins.
+      Nucleoli are structures where ribosomal RNA and transfer RNA molecules are
+      synthesized and accumulate, along with proteins. These molecules are transported
+      to the cytoplasm to form ribosomes. When the cell is not dividing, chromosomes
+      appear as tangled long, thin DNA filaments dispersed in the nuclear fluid,
+      constituting chromatin. Condensed chromatin regions form heterochromatin, while
+      decondensed regions form euchromatin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996424
+    m_Localized: Peroxisomes are rounded structures enclosed by a membrane. They
+      contain the enzyme catalase, which decomposes hydrogen peroxide, a toxic substance
+      formed during certain cellular reactions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996425
+    m_Localized: The smooth endoplasmic reticulum is a system of tubular channels
+      enclosed by lipoprotein membranes, continuous with the rough endoplasmic reticulum.
+      It lacks ribosomes. Functions include intracellular transport of substances,
+      lipid synthesis, and detoxification of harmful substances.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996426
+    m_Localized: The rough endoplasmic reticulum is a system of channels enclosed
+      by lipoprotein membranes, forming sacs and flattened vesicles connected to
+      the nuclear envelope. It has ribosomes attached to the cytoplasmic-facing side
+      of the membrane. Functions include intracellular transport of proteins synthesized
+      by ribosomes and modifications to some proteins before being sent to the Golgi
+      Complex.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30327996427
+    m_Localized: Ribosomes, typically numerous, function in protein synthesis. They
+      consist of two subunits, a larger one and a smaller one, that stack during
+      protein synthesis. Subunits are composed mainly of proteins and ribosomal RNA.
+      Once protein synthesis is complete, the subunits separate, remaining in the
+      cytosol (or attached to the RER) until reassembly initiates a new translation
+      process.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

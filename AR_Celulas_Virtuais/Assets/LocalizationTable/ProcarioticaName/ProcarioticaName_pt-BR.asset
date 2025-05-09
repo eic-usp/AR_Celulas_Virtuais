@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ProcarioticaName_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 6062c96d1cb95e940ba33e9caffa7579, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 44932562944
+    m_Localized: "C\xE9lula Procari\xF3tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117376
+    m_Localized: Capsula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117377
+    m_Localized: Citosol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117378
+    m_Localized: "F\xEDmbrias"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117379
+    m_Localized: Pili
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117380
+    m_Localized: Flagelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117381
+    m_Localized: DNA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117382
+    m_Localized: Parede Celular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117383
+    m_Localized: "Plasm\xEDdeo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117384
+    m_Localized: Ribossomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966117385
+    m_Localized: "Membrana Plasm\xE1tica"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

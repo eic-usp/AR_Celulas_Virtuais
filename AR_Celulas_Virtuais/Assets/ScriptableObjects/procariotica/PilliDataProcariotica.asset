@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373594e4ec5402b449967b08aff08faa, type: 3}
+  m_Name: PilliDataProcariotica
+  m_EditorClassIdentifier: 
+  organelleName:
+    m_TableReference:
+      m_TableCollectionName: GUID:6062c96d1cb95e940ba33e9caffa7579
+    m_TableEntryReference:
+      m_KeyId: 44966117379
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  description:
+    m_TableReference:
+      m_TableCollectionName: GUID:60279ddb44a2a5b4389df5c9e8d51b3a
+    m_TableEntryReference:
+      m_KeyId: 729954680835
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  audio:
+    m_TableReference:
+      m_TableCollectionName: GUID:9c4e4be7964b3f7439393238d0fa2b3e
+    m_TableEntryReference:
+      m_KeyId: 107809374208
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+  references:
+    version: 2
+    RefIds: []

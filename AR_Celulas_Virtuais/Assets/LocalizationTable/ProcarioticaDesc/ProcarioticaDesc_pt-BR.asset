@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ProcarioticaDesc_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 60279ddb44a2a5b4389df5c9e8d51b3a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 729874989056
+    m_Localized: "Observe  uma c\xE9lula procari\xF3tica em corte. Elas s\xE3o caracterizadas
+      por apresentarem  poucas estruturas envolvidas por membranas. Possuem a membrana
+      plasm\xE1tica, que est\xE1 envolvida pela parede celular, n\xE3o possuem n\xFAcleo
+      organizado, ou seja, o material gen\xE9tico fica disperso no citoplasma. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680832
+    m_Localized: "Algumas bact\xE9rias secretam uma esp\xE9cie de \u201Ccamada protetora\u201D,
+      localizada do lado externo da parede celular, chamada C\xE1psula, composta
+      principalmente por polissacar\xEDdeos (mucopolissacar\xEDdeos). Representa
+      uma forma de prote\xE7\xE3o das bact\xE9rias, particularmente as pat\xF3genas,
+      contra o processo de fagocitose. A c\xE1psula tamb\xE9m protege da desidrata\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680833
+    m_Localized: "O citosol, hialoplasma, ou matriz citoplasm\xE1tica \xE9 um fluido
+      gelatinoso que preenche todos os espa\xE7os dentro da c\xE9lula procari\xF3tica.
+      \xC9 constitu\xEDdo por \xE1gua, prote\xEDnas, especialmente enzimas, a\xE7\xFAcares,
+      bases nitrogenadas, que s\xE3o  precursoras dos  \xE1cidos nucleicos,  DNA
+      e RNA,  amino\xE1cidos (que s\xE3o as unidades que constituem as prote\xEDnas),
+      al\xE9m de lip\xEDdios, carboidratos, numerosos polirribossomos e ribossomos
+      livres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680834
+    m_Localized: "As F\xEDmbrias s\xE3o estruturas semelhantes a pelos,  curtos,
+      retos e mais finos que os flagelos. \xC9 utilizada mais para fixa\xE7\xE3o
+      do que mobilidade. As f\xEDmbrias podem estar  distribu\xEDdas em toda  superf\xEDcie
+      da bact\xE9ria. Essas estruturas t\xEAm a tend\xEAncia de se aderir umas \xE0s
+      outras e \xE0s superf\xEDcies."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680835
+    m_Localized: "Pili s\xE3o estruturas normalmente mais longas que as f\xEDmbrias, 
+      encontrados um ou dois por c\xE9lula, possuem  fun\xE7\xE3o na mobilidade celular
+      e na transfer\xEAncia de DNA atrav\xE9s do  processo  de conjuga\xE7\xE3o.
+      Neste processo, o DNA \xE9 transferido de uma c\xE9lula doadora para uma c\xE9lula
+      receptora, por meio do pili de conjuga\xE7\xE3o ou pili sexual.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680836
+    m_Localized: "As bact\xE9rias que apresentam movimento o fazem atrav\xE9s da
+      movimenta\xE7\xE3o do  flagelo,  formado por prote\xEDnas especiais que emergem
+      na parede celular e  da  membrana plasm\xE1tica.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680837
+    m_Localized: "Nas c\xE9lulas procari\xF3ticas o material gen\xE9tico n\xE3o \xE9
+      delimitado por membrana  e \xE9 constitu\xEDdo por uma \xFAnica mol\xE9cula
+      de DNA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680838
+    m_Localized: "A Parede celular \xE9 uma estrutura semirr\xEDgida, espessa, que
+      circunda a membrana plasm\xE1tica. \xC9 constitu\xEDda por um complexo de peptideoglicanos,
+      polissacar\xEDdeos (cujo mais abundante \xE9 a celulose) e pequenos pept\xEDdeos.
+      A parede tem  fun\xE7\xE3o protetora mec\xE2nica e de sustenta\xE7\xE3o aos
+      constituintes celulares, al\xE9m de fornecer resist\xEAncia a um aumento excessivo
+      de volume causado pela entrada de \xE1gua, mantendo a forma da c\xE9lula e
+      evitando seu rompimento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680839
+    m_Localized: "O plasm\xEDdeo \xE9 uma pequena mol\xE9cula de DNA circular, independente
+      do DNA da bact\xE9ria. Possui genes que favorecem o procarioto, mas que n\xE3o
+      s\xE3o essenciais a ele."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680840
+    m_Localized: "Os ribossomos, geralmente numerosos e livres ou em complexos formando
+      os polirribossomas, atuam no processo de s\xEDntese proteica. S\xE3o formados
+      por duas subunidades de tamanhos diferentes dispostas uma sobre a outra, estas
+      subunidades s\xE3o constitu\xEDdas basicamente por prote\xEDnas e RNA riboss\xF4mico.
+      Ap\xF3s o t\xE9rmino da s\xEDntese proteica ocorre o desacoplamento das subunidades
+      riboss\xF4micas que permanecem separadas at\xE9 se associarem novamente para
+      dar in\xEDcio a uma nova tradu\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680841
+    m_Localized: "A Membrana Plasm\xE1tica  delimita o citoplasma dos procariotos 
+      e  auxilia a manter  constante a composi\xE7\xE3o qu\xEDmica do citoplasma,
+      controlando seletivamente a entrada e sa\xEDda de v\xE1rias subst\xE2ncias,
+      embora permita livre passagem de algumas pequenas mol\xE9culas neutras: como
+      \xE1gua, oxig\xEAnio e g\xE1s carb\xF4nico.\n\xC9 composta por duas camadas
+      fluidas de mol\xE9culas de fosfolip\xEDdeos, por prote\xEDnas que podem estar
+      mergulhadas ou somente associadas a estas camadas, e glicoprote\xEDnas.\nA
+      estrutura da bicamada \xE9 semelhante em todas as c\xE9lulas, ou seja, as caudas
+      lip\xEDdicas de seu interior s\xE3o hidrof\xF3bicas, enquanto as cabe\xE7as
+      polares do grupo fosfato de sua extremidade s\xE3o hidrof\xEDlicas. Na face
+      interna da membrana plasm\xE1tica, em contato com o citoplasma, nos procariotos,
+      encontram-se enzimas relacionadas com a respira\xE7\xE3o celular."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

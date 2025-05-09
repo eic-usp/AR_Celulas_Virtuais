@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df70fe48c752fa64b8edcba17f6e569e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - botaoImagem: {instanceID: 0}
+  - bandeiraBrasil: {fileID: 21300000, guid: ae45f0e1585db974c89f6dbc9c3cb9bb, type: 3}
+  - bandeiraEua: {fileID: 21300000, guid: 6b931e3a49fc5fd42a36f06bb99ba3a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

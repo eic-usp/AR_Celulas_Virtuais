@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: VegAudio Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: VegAudio
+  m_TableCollectionNameGuidString: 95f85c859651d374e92e5cc42a8dba0d
+  m_Entries:
+  - m_Id: 79581708288
+    m_Key: celula_veg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428868333568
+    m_Key: "citoesqueleto\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1431615602688
+    m_Key: citosol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1550935162880
+    m_Key: cloroplastos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1577141174272
+    m_Key: leucoplasto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1625996427264
+    m_Key: "complexo_golgi\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643281154048
+    m_Key: "membrana_plasmatica\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1664516915200
+    m_Key: "mitocondria\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1680996335616
+    m_Key: "nucleo\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1697467367424
+    m_Key: nucleolos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1715020529664
+    m_Key: parede_celu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740991660032
+    m_Key: peroxissomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1759815696384
+    m_Key: "plasmodesmo\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821824286720
+    m_Key: "rel\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1845039759360
+    m_Key: "rer\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862223822848
+    m_Key: "ribossomo\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877860188160
+    m_Key: vacuolo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 6231336460039487492
+  m_KeyGenerator:
+    rid: 6231336162921021461
+  references:
+    version: 2
+    RefIds:
+    - rid: 6231336162921021461
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744332856753
+    - rid: 6231336460039487492
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 79581708288
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1428868333568
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1431615602688
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1550935162880
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1577141174272
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1625996427264
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1643281154048
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1664516915200
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1680996335616
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1697467367424
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1715020529664
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1740991660032
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1759815696384
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1821824286720
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1845039759360
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1862223822848
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        - m_KeyId: 1877860188160
+          m_TableCodes:
+          - en-US
+          - pt-BR
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

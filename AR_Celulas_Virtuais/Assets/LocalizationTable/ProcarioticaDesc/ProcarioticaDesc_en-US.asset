@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ProcarioticaDesc_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 60279ddb44a2a5b4389df5c9e8d51b3a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 729874989056
+    m_Localized: 'Observe a cross-section of a prokaryotic cell. These cells are
+      characterized by having few membrane-bound structures. They possess a plasma
+      membrane surrounded by a cell wall but lack a defined nucleus, meaning their
+      genetic material is dispersed in the cytoplasm. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680832
+    m_Localized: Some bacteria secrete a "protective layer" on the outside of the
+      cell wall called the Capsule, which is primarily composed of polysaccharides
+      (mucopolysaccharides). This capsule serves as a protective mechanism for bacteria,
+      particularly pathogenic ones, against phagocytosis. It also prevents dehydration.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680833
+    m_Localized: The cytosol, hyaloplasm, or cytoplasmic matrix is a gel-like fluid
+      that fills all spaces inside the prokaryotic cell. It consists of water, proteins
+      (especially enzymes), sugars, nitrogenous bases (precursors of nucleic acids,
+      DNA, and RNA), amino acids (the building blocks of proteins), as well as lipids,
+      carbohydrates, numerous polyribosomes, and free ribosomes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680834
+    m_Localized: Fimbriae are hair-like structures that are short, straight, and
+      thinner than flagella. They are used primarily for adhesion rather than mobility.
+      Fimbriae can be distributed over the entire surface of the bacterium. These
+      structures tend to adhere to each other and to surfaces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680835
+    m_Localized: Pili are typically longer than fimbriae and are usually present
+      one or two per cell. They function in cell mobility and DNA transfer through
+      conjugation. In this process, DNA is transferred from a donor cell to a recipient
+      cell via the conjugation pilus or sex pilus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680836
+    m_Localized: Bacteria that are capable of movement achieve this through the motion
+      of the flagellum. The flagellum is composed of specialized proteins that emerge
+      from the cell wall and plasma membrane.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680837
+    m_Localized: In prokaryotic cells, the genetic material is not enclosed by a
+      membrane and consists of a single DNA molecule.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680838
+    m_Localized: The cell wall is a semi-rigid, thick structure surrounding the plasma
+      membrane. It is composed of a complex of peptidoglycans, polysaccharides (the
+      most abundant being cellulose), and small peptides. The cell wall provides
+      mechanical protection and support for cellular components. It also offers resistance
+      to excessive volume increases caused by water intake, maintaining the cell
+      shape and preventing rupture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680839
+    m_Localized: "The plasmid is a small, circular DNA molecule independent of the
+      bacterium\u2019s DNA. It contains genes that provide advantages to the prokaryote
+      but are not essential for its survival."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680840
+    m_Localized: Ribosomes, which are generally numerous and either free or forming
+      polyribosomes, play a role in protein synthesis. They are composed of two subunits
+      of different sizes stacked upon each other. These subunits consist primarily
+      of proteins and ribosomal RNA. After protein synthesis is completed, the ribosomal
+      subunits detach and remain separate until they reassociate to initiate a new
+      translation process.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729954680841
+    m_Localized: "The plasma membrane defines the cytoplasm of prokaryotes and helps
+      maintain the chemical composition of the cytoplasm by selectively controlling
+      the entry and exit of various substances, although it allows free passage of
+      small neutral molecules such as water, oxygen, and carbon dioxide.\nThe membrane
+      consists of two fluid layers of phospholipid molecules, proteins that can be
+      embedded or associated with these layers, and glycoproteins. \nThe bilayer
+      structure is similar in all cells, with hydrophobic lipid tails on the interior
+      and hydrophilic phosphate group heads on the exterior. On the inner face of
+      the plasma membrane, in contact with the cytoplasm, prokaryotes have enzymes
+      involved in cellular respiration processes."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

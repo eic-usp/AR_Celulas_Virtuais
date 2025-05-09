@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Portuguese (Brazil) (pt-BR)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Portuguese (Brazil) (pt-BR)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ff4810628214ec84f94cdac6207ed138
+  m_SerializeEntries:
+  - m_GUID: 3e4743518c77ae04c9ee2c29d6a528a7
+    m_Address: ProcarioticaName_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce26cf031a3dc1144a670e58399b0456
+    m_Address: ProcarioticaDesc_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef0723e7fc9e4d4f9ec594daf492e9a
+    m_Address: VegetalName_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13cd700554888ed4fae8f90b34b74451
+    m_Address: VegetalDesc_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c4baedc175f34b4180c346aa5610f94
+    m_Address: AnimalName_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 772f040ddf2213b43844ecf6c144d951
+    m_Address: AnimalDesc_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e599b100cb9aa5f41b4f857afb570137
+    m_Address: UI_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2bfed82115763b641a511b272a5bc63e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ea3c553ccf6fbfb4a8b38686dd18e250, type: 2}
+    - {fileID: 11400000, guid: 18927c04dc211274780c2a33188d2983, type: 2}

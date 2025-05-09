@@ -1,6 +1,7 @@
 using System.Net.Mime;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -14,6 +15,7 @@ public class MenuManager : MonoBehaviour
     public GameObject CanvaMenu;
     public GameObject CanvaCredits;
     public GameObject CanvaTutorial;
+    public GameObject CanvaLanguage;
 
 
     // Start is called before the first frame update
@@ -52,6 +54,8 @@ public class MenuManager : MonoBehaviour
         CanvaTutorial.SetActive(false);
 
     }
+
+    
 
 
     public void OpenLink(string link) => Application.OpenURL(link); 

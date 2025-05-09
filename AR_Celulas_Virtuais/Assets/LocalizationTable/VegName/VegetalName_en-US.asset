@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: VegetalName_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 91a452114c7f5cc46949d634edd6ef7a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 232766078976
+    m_Localized: Plant Cell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856192
+    m_Localized: Cytoskeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856193
+    m_Localized: Cytosol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856194
+    m_Localized: Chloroplasts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856195
+    m_Localized: Leucoplast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856196
+    m_Localized: Golgi Complex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856199
+    m_Localized: Plasma Membrane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856200
+    m_Localized: Mitochondria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856201
+    m_Localized: Nucleus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856202
+    m_Localized: Nucleoli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856203
+    m_Localized: Cell Wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856204
+    m_Localized: Peroxisome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856205
+    m_Localized: Plasmodesmata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856206
+    m_Localized: Smooth Endoplasmic Reticulum (SER)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856207
+    m_Localized: Rough Endoplasmic Reticulum (RER)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856208
+    m_Localized: Ribosome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232782856209
+    m_Localized: Vacuoles
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

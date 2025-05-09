@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: VegetalDesc Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: VegetalDesc
+  m_TableCollectionNameGuidString: fb86dfeacc3e2c64bb2bd7caa93a8834
+  m_Entries:
+  - m_Id: 1003687542784
+    m_Key: celula_veg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902912
+    m_Key: citoesqueleto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902913
+    m_Key: citosol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902914
+    m_Key: cloroplastos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902915
+    m_Key: leucoplasto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902916
+    m_Key: complexo_golgi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902917
+    m_Key: membrana_plasmatica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902918
+    m_Key: mitocondria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902919
+    m_Key: nucleo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902920
+    m_Key: nucleolos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902921
+    m_Key: parede_celu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902922
+    m_Key: peroxissomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902923
+    m_Key: plasmodesmo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902924
+    m_Key: rel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902925
+    m_Key: rer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902926
+    m_Key: ribossomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003716902927
+    m_Key: vacuolo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6231336162921021444
+  references:
+    version: 2
+    RefIds:
+    - rid: 6231336162921021444
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744324892222

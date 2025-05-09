@@ -8,6 +8,19 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+	"picker_window_position_offset.45F317DD" = "76;184,8;315,2;550,4"
+	"picker_search_text.45F317DD" = "st: down"
+	"last_search.45F317DD" = "st: down"
+	"OpenInspectorPreview.45F317DD" = "0"
+	"currentGroup.45F317DD" = "all"
+	"picker_window_position_offset.45F3178B" = "74,40002;168,8;320;550,4"
+	"picker_search_text.45F3178B" = "at: band"
+	"last_search.45F3178B" = "at: band"
+	"OpenInspectorPreview.45F3178B" = "0"
+	"currentGroup.45F3178B" = "all"
+	"last_search.3BE404DF" = "ref:Assets/ScriptableObjects/animal/GolgiApparatusData.asset"
+	"OpenInspectorPreview.3BE404DF" = "0"
+	"currentGroup.3BE404DF" = "all"
 }
 providers = {
 	log = {
@@ -55,10 +68,40 @@ providers = {
 		priority = 2500
 		defaultAction = null
 	}
+	at = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	st = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
 }
 objectSelectors = {
 }
 recentSearches = [
+	"at: "
+	"at:"
+	"st:"
+	"at: re"
+	"at: c"
+	"at: id=12345"
+	"at: tr(pt-BR):\"some value\""
+	"st: re"
+	"st: pa"
+	"st: n"
+	"st: "
+	"st: col:VegetalDesc"
+	"st: col:VegetalName col:VegetalDesc complexo"
+	"st: col:VegetalName complexo"
+	"ref:Assets/ScriptableObjects/animal/GolgiApparatusData.asset"
+	"st: col:ProcarioticaName col:VegetalName col:ProcarioticaName"
+	"st: col:ProcarioticaName col:VegetalName"
+	"st: col:ProcarioticaName col:VegetalName tr(en-US):\"some value\""
+	"st: col:ProcarioticaName col:AnimalDesc"
+	"st: col:VegetalName col:AnimalDesc"
 ]
 searchItemFavorites = [
 ]
@@ -67,7 +110,7 @@ showSavedSearchPanel = false
 hideTabs = false
 expandedQueries = [
 ]
-queryBuilder = false
+queryBuilder = true
 ignoredProperties = "id;name;classname;imagecontentshash"
 helperWidgetCurrentArea = "all"
 disabledIndexers = ""

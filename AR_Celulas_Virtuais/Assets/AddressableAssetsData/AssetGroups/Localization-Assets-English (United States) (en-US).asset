@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (United States) (en-US)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (United States) (en-US)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 71d7a1a173be0ec4eb55558f5e407495
+  m_SerializeEntries:
+  - m_GUID: 82874f0a2bd6a4142a57f4f25720722b
+    m_Address: IAVacuoles
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1481b1f841cbb4e4897d97c02454140b
+    m_Address: IARibosome (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62ac6d8e4a77cb947b99b49f6833dbe4
+    m_Address: IARoughEndoplasmicReticulum (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa1c7e38b91f19b418d4d57bb50d60e6
+    m_Address: IAPlasmodesmata
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51020c720cfa2c64fb3fece18a0595bd
+    m_Address: IASmoothEndoplasmicReticulum (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57d7ed2d0a1370b4b8ad07d118ea9f74
+    m_Address: IACellWall
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f44738c7967e89429fe3eb218f9614e
+    m_Address: IAPeroxisome (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd8a3a939ededab4b8ffd5b2f711be76
+    m_Address: IANucleus-_1_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 256f9317cafbe7a4c9e8248dff6dff72
+    m_Address: IANucleoli
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7e8f98062c505148abd8c0eda635b7a
+    m_Address: IAMitochondria-_1_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f9d708cfda50cf48a3958877806936f
+    m_Address: IAPlasmaMembrane-_1_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20691e463ebf90c4ca90239148a039f7
+    m_Address: IAGolgiComplex-_1_
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0ce0576722c1614f8e8c78311acf6ee
+    m_Address: IALeucoplast
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2612270d3184950409decda932413195
+    m_Address: IACytoskeleton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f786537bec0829e4fa48a409677355d2
+    m_Address: IAChloroplasts
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e24353d61b14e04a895b2d9cb2a6563
+    m_Address: IARibosome
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf1aede325ad3e049829f0bd58376275
+    m_Address: IARoughEndoplasmicReticulum
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6345e179cc036054cb89e4690661843a
+    m_Address: IASmoothEndoplasmicReticulum
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45ea2764d8ed3f843b16c001c4a3d841
+    m_Address: IAPeroxisome
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d949c6c9a1eff34eba5d80b9a396172
+    m_Address: IACentrioles
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7999f3481f811b64cae6a8bd1d7cbb84
+    m_Address: IALysosomes
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37665c49f3f105f40bb2a907ec541311
+    m_Address: IANucleus
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75d7387b232f74a428e4f489744dd799
+    m_Address: IAMitochondria
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9053291825a56948b040657abeadad6
+    m_Address: IAPlasmaMembrane
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a7a982339b229e4ebe3b69a93bf19d8
+    m_Address: IAIntrodution
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bf99b39815c2d74e96b69a5ffb1d290
+    m_Address: IAGolgiComplex
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26ba016bb154eba4fb4a3ba7d3d10a41
+    m_Address: IACytosol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98212e831d43f2343b1713b779731e45
+    m_Address: IACytoskeleton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af491c15f66ea21408a3208942a4e093
+    m_Address: "IAPlasma-membrane-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a35716dbdc1a3f4fb8f941e80c32fda
+    m_Address: "IACapsule-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bb623d040ece9b48b5f6347d648fb2e
+    m_Address: "IARibosome-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbe7f70be6521164eb421769eeb3b4ce
+    m_Address: "IACell-wall-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f7d4865855608f42844e99ca7d46f03
+    m_Address: "IAPili-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 884f5624205db58438e35ea6bddd8fe7
+    m_Address: "IAGenetic-material-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5670efd93391c18478ae621223fb4f7f
+    m_Address: "IACytosol-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0a0645b6888bd4ab167c859a77b4c4
+    m_Address: "IAPlasmid-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ae17ae36bd3ceb418bcb05f8b2baaa2
+    m_Address: "IAFlagellum-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffb85429a5c01a64f92288d6bd631f6a
+    m_Address: "IAFimbriae-\u2010-Feito-com-o-Clipchamp"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b931e3a49fc5fd42a36f06bb99ba3a9
+    m_Address: estados-unidos
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2bfed82115763b641a511b272a5bc63e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c8f75a9bea96774d8c6bce66b43732a, type: 2}
+    - {fileID: 11400000, guid: 21d174d97071cae4db80853610c73bf0, type: 2}

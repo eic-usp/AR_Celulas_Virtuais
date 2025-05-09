@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: VegAudio_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 95f85c859651d374e92e5cc42a8dba0d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1428868333568
+    m_Localized: 59d0d6fa5bc71ec4a99f233e3a74d71d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1550935162880
+    m_Localized: a83b72d14b648ce45a0748217fbb3886
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1431615602688
+    m_Localized: 7aa854a04403dba45a0906bfb677b32c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1577141174272
+    m_Localized: c19026c1f11def84cbf54aa845c3a728
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1625996427264
+    m_Localized: 0530b900490234341bc74551ea0885c7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1643281154048
+    m_Localized: 042a1c7298e62204e9ccb54eabb7a0aa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1664516915200
+    m_Localized: f7aea2419fa79484882abcafc8ffc1f5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1680996335616
+    m_Localized: 2995d064dc2042246a3f62c7bcd48692
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1697467367424
+    m_Localized: 2995d064dc2042246a3f62c7bcd48692
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1715020529664
+    m_Localized: d584b6fc8bef1d84e9765be5f4800296
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740991660032
+    m_Localized: c85c4d2e01c474949b9a3e5eba88d12c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1759815696384
+    m_Localized: e9a08b5627fd84746b009baf39034d1e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1845039759360
+    m_Localized: bbfa7b1236562d842a643867107e2e0c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821824286720
+    m_Localized: 10324476439acd04fbc0f6030194101e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877860188160
+    m_Localized: d907f78f2b43b3646b220caabc210384
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862223822848
+    m_Localized: 76404a603be18db478c5a1abe92c89e5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79581708288
+    m_Localized: 4a3bd0862a63bee48a7e1993be8b09ec
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

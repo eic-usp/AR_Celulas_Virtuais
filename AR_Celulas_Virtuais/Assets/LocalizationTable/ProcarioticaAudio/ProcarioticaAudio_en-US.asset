@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: ProcarioticaAudio_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 9c4e4be7964b3f7439393238d0fa2b3e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 101299814400
+    m_Localized: 5670efd93391c18478ae621223fb4f7f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99127164928
+    m_Localized: 8a35716dbdc1a3f4fb8f941e80c32fda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105292791808
+    m_Localized: ffb85429a5c01a64f92288d6bd631f6a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109692616704
+    m_Localized: 9ae17ae36bd3ceb418bcb05f8b2baaa2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111647162368
+    m_Localized: 884f5624205db58438e35ea6bddd8fe7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124662087680
+    m_Localized: af491c15f66ea21408a3208942a4e093
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113526210560
+    m_Localized: fbe7f70be6521164eb421769eeb3b4ce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107809374208
+    m_Localized: 6f7d4865855608f42844e99ca7d46f03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116244119552
+    m_Localized: 1c0a0645b6888bd4ab167c859a77b4c4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119268212736
+    m_Localized: 7bb623d040ece9b48b5f6347d648fb2e
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
